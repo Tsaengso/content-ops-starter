@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Schedule a Consultation
         altText: ''
-        url: /
+        url: /schedule
         showIcon: false
         icon: arrowRight
         iconPosition: right
