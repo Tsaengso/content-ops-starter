@@ -212,10 +212,61 @@ sections:
         type: FeaturedItem
       - title: Senior Software Engineer
         subtitle: Customer Relation Managers
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          At Interex Companies, we believe every client relationship is a
+          partnership — and our Customer Relations Managers are at the heart of
+          making those partnerships thrive. In this role, you’ll serve as the
+          primary point of contact for clients, ensuring their journey from
+          consultation to implementation is smooth, responsive, and high value.
+
+
+          You’ll be expected to bring both empathy and efficiency to the table:
+          identifying client needs, communicating project updates, and gathering
+          feedback to continually improve our services. This is a people-first
+          position perfect for someone who’s highly organized, emotionally
+          intelligent, and ready to grow with a mission-driven company.
+
+
+          Key Responsibilities:
+
+
+          *   Act as the main liaison between clients and internal teams
+
+
+          *   Monitor project timelines and coordinate client touchpoints
+
+
+          *   Track satisfaction metrics and proactively address client concerns
+
+
+          *   Deliver service updates, gather feedback, and manage check-ins
+
+
+          *   Support onboarding of new clients with clarity and care
+
+
+          *   Build lasting relationships rooted in trust, reliability, and
+          results
+
+
+          You Might Be a Great Fit If You:
+
+
+          *   Are energized by helping others succeed
+
+
+          *   Know how to communicate clearly, warmly, and professionally
+
+
+          *   Can manage multiple relationships and timelines at once
+
+
+          *   Thrive in dynamic, collaborative environments
+
+
+          *   Have a background in client services, sales support, or project
+          coordination
+
         colors: bg-neutral-fg-dark
         styles:
           self:
