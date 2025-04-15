@@ -21,7 +21,7 @@ sections:
           organized.
         features:
           - Comprehensive 1-2 hour consultation
-          - Feature two
+          - Phased action plan for seamless roll out
           - Feature three
         image:
           url: /images/abstract-feature1.svg
