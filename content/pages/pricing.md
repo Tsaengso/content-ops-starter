@@ -9,7 +9,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: All of our packages are tailored to you
+    subtitle: >-
+      All of our consultations are tailored to your needs, no two consultations
+      are the same!
     plans:
       - title: Small Business
         price: $200
