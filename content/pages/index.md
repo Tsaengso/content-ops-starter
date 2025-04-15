@@ -111,7 +111,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Marketing
-        subtitle: Visibily
+        subtitle: 'Visibility, earned'
         text: >
           Cut through the noise with marketing strategies built on data,
           clarity, and alignment. We help you communicate value and capture
