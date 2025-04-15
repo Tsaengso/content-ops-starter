@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Whether you're a growing startup or a seasoned enterprise, the right
+      systems can transform how you operate. At Interex, we identify what's
+      slowing you down and build tailored solutions that create real, lasting
+      impact. We provide comprehensive consultation to businesses of any size,
+      and in any industry.
     actions:
       - label: Get started
         altText: ''
