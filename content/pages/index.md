@@ -15,7 +15,7 @@ sections:
       impact. We provide comprehensive consultation to businesses of any size,
       and in any industry.
     actions:
-      - label: Get started
+      - label: Schedule a Consultation
         altText: ''
         url: /
         showIcon: false
