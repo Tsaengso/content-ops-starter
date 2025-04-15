@@ -23,7 +23,7 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "FAQ",
                 "url": "/FAQ",
                 "icon": "arrowRight",
                 "iconPosition": "right",
