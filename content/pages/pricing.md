@@ -47,9 +47,10 @@ sections:
       - title: Industry Leader
         price: $300
         details: per session
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          For businesses actively scaling operations, seeking ways to increase
+          workflow and productivity, or for moderately sized teams of about
+          20-50
         features:
           - Feature one
           - Feature two
