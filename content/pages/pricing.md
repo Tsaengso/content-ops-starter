@@ -55,7 +55,7 @@ sections:
           - Everything included in Small Business tier
           - Full efficiency audit of up to 3 core functions
           - Detailed SOP documentation for all teams
-          - Executive summary brief for leadership
+          - Executive summary briefing for leadership
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
