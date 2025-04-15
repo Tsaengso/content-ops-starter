@@ -54,7 +54,7 @@ sections:
         features:
           - Everything included in Small Business tier
           - Full efficiency audit of up to 3 core functions
-          - Detailed SOP documentation for  all teams
+          - Detailed SOP documentation for all teams
           - Feature four
         image:
           url: /images/abstract-feature2.svg
