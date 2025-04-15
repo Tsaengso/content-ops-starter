@@ -7,7 +7,7 @@ topSections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: FAQ'S
       color: text-dark
       styles:
         self:
