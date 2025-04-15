@@ -44,7 +44,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Industry Leader
-        price: $99
+        price: $300
         details: per session
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
