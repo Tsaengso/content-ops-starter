@@ -53,7 +53,7 @@ sections:
           20-50
         features:
           - Everything included in Small Business tier
-          - Full
+          - Full efficiency audit of up to 3 core business functions
           - Feature three
           - Feature four
         image:
