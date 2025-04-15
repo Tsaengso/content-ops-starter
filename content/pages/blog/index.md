@@ -16,7 +16,7 @@ topSections:
     items:
       - type: FeaturedItem
         title: What Should I Expect?
-        subtitle: Sales
+        subtitle: Honesty above all.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
