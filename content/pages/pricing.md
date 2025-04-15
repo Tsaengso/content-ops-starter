@@ -52,7 +52,7 @@ sections:
           workflow and productivity, or for moderately sized teams of about
           20-50
         features:
-          - Feature one
+          - Everything included in Small Business tier
           - Feature two
           - Feature three
           - Feature four
