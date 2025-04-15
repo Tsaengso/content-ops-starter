@@ -17,10 +17,21 @@ topSections:
       - type: FeaturedItem
         title: What Should I Expect?
         subtitle: Honesty above all.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Once you schedule your consultation, we will arrive at your business
+          in person or create a zoom call. From there, our team will create a
+          picture of what your current process performs while taking notes along
+          the way. We will interview key players in various departments and work
+          to understand the lifecycle of your product or service from the bottom
+          up.
+
+
+          Once the interview stage completes, we will meet with your leadership
+          team and discuss immediate pinch points and initial findings. We will
+          then depart your facility or call and spend the next 24-48 hours
+          developing a road map for your business to optimize the areas we've
+          consulted and present our findings, suggestions, and SOP write ups to
+          your leadership team for implementation.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
