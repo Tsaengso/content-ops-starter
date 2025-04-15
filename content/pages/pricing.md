@@ -16,9 +16,9 @@ sections:
       - title: Small Business
         price: $200
         details: per session
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          For local shops, solo entrepreneurs, or teams under 10 looking to get
+          organized.
         features:
           - Feature one
           - Feature two
