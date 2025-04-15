@@ -111,7 +111,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Marketing
-        subtitle: Visibili
+        subtitle: Visibily
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
