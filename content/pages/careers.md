@@ -51,7 +51,7 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Open positions
+      text: Career Areas
       color: text-dark
       styles:
         self:
