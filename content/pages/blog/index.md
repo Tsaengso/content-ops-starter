@@ -12,7 +12,7 @@ topSections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Can't find your question? Feel free to send us an email!
     items:
       - type: FeaturedItem
         title: Account Executive
