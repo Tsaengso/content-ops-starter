@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Empowering businesses to move faster, work smarter, and grow stronger.'
+      text: 'We empower businesses to move faster, work smarter, and grow stronger.'
       color: text-dark
       type: TitleBlock
     subtitle: ''
