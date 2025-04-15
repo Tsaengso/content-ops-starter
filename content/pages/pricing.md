@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: All of our packages are tailored to you
     plans:
       - title: Small Business
         price: $200
