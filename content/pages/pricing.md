@@ -85,7 +85,7 @@ sections:
           alignment. Typically for larger sized teams of 100 or more.
         features:
           - Everything included in Industry Leader tier
-          - Full efficiency audit of up to 5 core functions
+          - Additional 2 cross depatmental audits
           - Feature three
           - Feature four
           - Feature five
