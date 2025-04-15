@@ -9,30 +9,32 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: >-
+      All of our consultations are tailored to your needs, no two consultations
+      are the same!
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Small Business
+        price: $200
+        details: per session
+        description: >
+          For local shops, solo entrepreneurs, or teams under 10 looking to get
+          organized.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Comprehensive 1-2 hour consultation
+          - Phased action plan for seamless roll out
+          - Complimentary check in at 3/6/12 months
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
-            url: /
+          - label: Book Now
+            url: 'http://interex-companies.square.site/'
             icon: arrowRight
             iconPosition: right
             style: secondary
             type: Button
+            showIcon: false
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -43,24 +45,25 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Industry Leader
+        price: $300
+        details: per session
+        description: >
+          For businesses actively scaling operations, seeking ways to increase
+          workflow and productivity, or for moderately sized teams of about
+          20-50
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Everything included in Small Business tier
+          - Full efficiency audit of up to 3 core functions
+          - Detailed SOP documentation for all teams
+          - Executive summary briefing for leadership
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
-            url: /
+          - label: Book Now
+            url: 'http://interex-companies.square.site/'
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -75,25 +78,25 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+      - title: Global Enterprise
+        price: $500
+        details: per session
+        description: >
+          For complex teams or multi-department operations needing strategic
+          alignment. Typically for larger sized teams of 100 or more.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - Everything included in Industry Leader tier
+          - Cross departmental audits for up to 2 areas
+          - Executive level info deck to present to leadership
+          - 90 day concierge access via Teams
+          - One-year revisional follow up analysis
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Contact us
-            url: /
+          - label: Book Now
+            url: 'http://interex-companies.square.site/'
             icon: arrowRight
             iconPosition: right
             style: secondary
