@@ -86,7 +86,7 @@ sections:
         features:
           - Everything included in Industry Leader tier
           - Cross departmental audits for up to 2 areas
-          - Executive level summary deck to present to leadership
+          - Executive level info deck to present to leadership
           - Feature four
           - Feature five
         image:
