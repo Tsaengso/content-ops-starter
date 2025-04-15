@@ -15,7 +15,7 @@ topSections:
     subtitle: Can't find your question? Feel free to send us an email!
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: What Should I Expect?
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
