@@ -1,39 +1,13 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/2.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "Interex Companies\n",
+    "text": "",
     "primaryLinks": {
-        "title": "Product",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "title": "Services",
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
@@ -49,12 +23,23 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "FAQ",
+                "url": "/FAQ",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Support",
+                "altText": "Play",
+                "url": "mailto:help@interexcompanies.com?subject=Support%20Request&body=Hello%2C%20I%27m%20in%20need%20of%20an%20assistance%20with",
+                "showIcon": true,
+                "icon": "mail",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
@@ -68,13 +53,13 @@
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/company/interexcompanies",
             "icon": "linkedin",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:help@interexcompanies.com?subject=General%20Inquiry",
             "icon": "mail",
             "type": "Social"
         }

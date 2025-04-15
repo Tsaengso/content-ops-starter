@@ -21,9 +21,9 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "FAQ",
+            "altText": "FAQ",
+            "url": "/FAQ",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
