@@ -57,8 +57,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    people:
-      - content/data/person6.json
+    people: []
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
