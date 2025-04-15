@@ -56,7 +56,7 @@ topSections:
             justifyContent: center
       - type: FeaturedItem
         title: Do You Offer Custom Consultations?
-        subtitle: Engineering
+        subtitle: We are here for any business need.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
