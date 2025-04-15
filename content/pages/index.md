@@ -61,9 +61,7 @@ sections:
         subtitle: 'Flow, optimized'
         text: >
           We streamline the movement of goods, information, and resources so
-          your operations run smoothly from origin to delivery. From inventory
-          systems to supplier coordination, we identify the gaps and optimize
-          every step.
+          your operations run smoothly from origin to delivery.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
