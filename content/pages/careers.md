@@ -81,7 +81,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-        tagline: Be the face of Interex
+        tagline: ''
       - title: Open Source Engineer
         subtitle: Marketing
         text: >-
