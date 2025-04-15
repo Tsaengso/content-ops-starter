@@ -112,10 +112,11 @@ sections:
       - type: FeaturedItem
         title: Marketing
         subtitle: Visibily
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Cut through the noise with marketing strategies built on data,
+          clarity, and alignment. Whether through positioning, or lead
+          generation, we help you communicate value and capture attention in the
+          right markets.
         image:
           type: ImageBlock
           url: /images/icon1.svg
