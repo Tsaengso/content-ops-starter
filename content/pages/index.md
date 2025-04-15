@@ -233,7 +233,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: WHY CONSULTING
       color: text-primary
       styles:
         self:
