@@ -59,10 +59,11 @@ sections:
       - type: FeaturedItem
         title: Logistics
         subtitle: 'Flow, optimized'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We streamline the movement of goods, information, and resources so
+          your operations run smoothly from origin to delivery. From inventory
+          systems to supplier coordination, we identify the gaps and optimize
+          every step.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
