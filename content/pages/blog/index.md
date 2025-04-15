@@ -91,10 +91,25 @@ topSections:
       - type: FeaturedItem
         title: Do You Offer Custom Consultations?
         subtitle: We are here for any business need.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          All of our services are tailored to your individual needs. Many
+          factors come into play for each client and no two consultations are
+          the same.
+
+
+          However, if referring to services outside the tiered levels, yes, we
+          can offer a la carte services to create a plan tailored for your
+          needs.
+
+
+          Each additional service has a flat rate charge to add to your invoice
+          and is based on the complexity of the task and/or resources required.
+
+
+
+
+          Please send us an email prior to committing to a tier if you require a
+          custom solution!
         actions: []
         colors: bg-neutral-fg-dark
         styles:
