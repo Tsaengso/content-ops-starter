@@ -211,7 +211,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Customer Relation Managers
-        subtitle: Customer Relation Managers
+        subtitle: Multifaceted frontline support
         text: >+
           At Interex Companies, we believe every client relationship is a
           partnership — and our Customer Relations Managers are at the heart of
