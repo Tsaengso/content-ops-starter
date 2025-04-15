@@ -53,7 +53,7 @@ sections:
           20-50
         features:
           - Everything included in Small Business tier
-          - Feature two
+          - Full
           - Feature three
           - Feature four
         image:
