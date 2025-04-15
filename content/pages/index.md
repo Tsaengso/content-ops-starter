@@ -85,7 +85,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Human Reso
+      - title: Data
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
