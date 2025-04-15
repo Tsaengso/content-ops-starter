@@ -84,7 +84,7 @@ sections:
           For complex teams or multi-department operations needing strategic
           alignment. Typically for larger sized teams of 100 or more.
         features:
-          - Feature one
+          - Everything included in Industry Leader tier
           - Feature two
           - Feature three
           - Feature four
