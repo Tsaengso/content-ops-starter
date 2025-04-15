@@ -60,8 +60,8 @@ sections:
         title: Logistics
         subtitle: 'Flow, optimized'
         text: >
-          We streamline the movement of goods, information, and resources so
-          your operations run smoothly from origin to delivery.
+          We help streamline the movement of goods, information, and resources
+          so your operations run smoothly from origin to delivery.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
