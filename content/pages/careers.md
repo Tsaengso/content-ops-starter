@@ -281,7 +281,7 @@ sections:
     actions:
       - label: Inquire
         url: >-
-          mailto:careers@interexcompanies.com?subject=Career%20Opportunity%20Inquiry&body=Dear%20Interex%20Team%2C%0D%0A%0D%0AMy%20name%20is%20%5BYour%20Name%5D%20and%20I%20am%20interested%20in%20career%20opportunities%20with%20Interex%20Companies.%20Please%20find%20my%20resume%20attached%20for%20your%20consideration.%0D%0A%0D%0AI%20am%20particularly%20interested%20in%20the%20role%20of%20%5BInsert%20Position%20Here%5D%2C%20%0D%0A%0D%0AThank%20you%20for%20considering%20my%20application.%20I%20look%20forward%20to%20hearing%20from%20you.%0D%0A%0D%0ABest%20regards%2C%0D%0A%5BYour%20Full%20Name%5D%0D%0A%5BYour%20Phone%20Number%5D%0D%0A%5B
+          mailto:careers@interexcompanies.com?subject=Career%20Opportunity%20Inquiry&body=Dear%20Interex%20Team%2C%0D%0A%0D%0AMy%20name%20is%20%5BYour%20Name%5D%20and%20I%20am%20interested%20in%20career%20opportunities%20with%20Interex%20Companies.%20Please%20find%20my%20resume%20attached%20for%20your%20consideration.%0D%0A%0D%0AI%20am%20particularly%20interested%20in%20the%20role%20of%20%5BInsert%20Position%20Here%5D%2C%20%0D%0A%0D%0AThank%20you%20for%20considering%20my%20application.%20I%20look%20forward%20to%20hearing%20from%20you.%0D%0A%0D%0ABest%20regards%2C%0D%0A%5BYour%20Full%20Name%5D%0D%0A%5BYour%20Phone%20Number%5D%0D
         icon: arrowRight
         iconPosition: right
         style: primary
