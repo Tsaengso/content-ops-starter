@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Small Business
         price: Free
-        details: to start
+        details: per session
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
