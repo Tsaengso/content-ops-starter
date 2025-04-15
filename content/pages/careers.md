@@ -63,7 +63,7 @@ sections:
       keep your resume on file for future opportunities!
     items:
       - title: Consultants
-        subtitle: Sales
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
