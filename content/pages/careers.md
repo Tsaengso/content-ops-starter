@@ -210,7 +210,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
+      - title: Customer Relation Managers
         subtitle: Customer Relation Managers
         text: >+
           At Interex Companies, we believe every client relationship is a
