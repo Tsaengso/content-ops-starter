@@ -12,7 +12,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - title: Small Business
-        price: Free
+        price: $200
         details: per session
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
