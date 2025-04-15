@@ -36,7 +36,7 @@ topSections:
             justifyContent: center
       - type: FeaturedItem
         title: How Long Will it Take?
-        subtitle: Marketing
+        subtitle: 1 to 2 hours.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
