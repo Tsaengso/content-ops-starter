@@ -76,7 +76,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Global Enterprise
-        price: Custom
+        price: $500
         details: per session
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
