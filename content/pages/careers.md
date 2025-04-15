@@ -143,10 +143,60 @@ sections:
         tagline: ''
       - title: Marketing Interns
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Looking to break into the world of marketing with real projects and
+          real impact? As a Marketing Intern with Interex Companies, you won’t
+          be fetching coffee — you’ll be crafting campaigns, generating leads,
+          and gaining experience that translates directly to a future career in
+          digital strategy, brand development, or creative marketing.
+
+
+          This is a hands-on, portfolio-building opportunity ideal for students,
+          recent grads, or self-taught marketers eager to prove their skills in
+          a fast-moving, entrepreneurial environment. While this internship is
+          unpaid, interns receive 10% commission (uncapped) on all first-time
+          client deals generated through their ad efforts.
+
+
+          What You’ll Do:
+
+
+          <div style="text-align: left">*   Design, launch, and manage
+          promotional campaigns across digital channels
+
+
+          *   Research and identify target audiences for consulting services
+
+
+          *   Analyze ad performance and adjust strategies for better results
+
+
+          *   Collaborate on creative assets and messaging
+
+
+          *   Gain exposure to marketing strategy, copywriting, and analytics
+          tools</div>
+
+
+          You Might Be a Great Fit If You:
+
+
+          *   Want practical experience that goes beyond the classroom
+
+
+          *   Are eager to learn, experiment, and grow your marketing skills
+
+
+          *   Have an eye for design, an ear for compelling messaging, or a
+          passion for analytics
+
+
+          *   Thrive with freedom, creativity, and real-world challenges
+
+
+          *   Are comfortable working remotely and managing your own campaign
+          timelines
+
         colors: bg-neutral-fg-dark
         styles:
           self:
