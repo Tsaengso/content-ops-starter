@@ -64,7 +64,8 @@ sections:
           type: ImageBlock
         actions:
           - label: Book Now
-            url: /
+            url: >-
+              mailto:sales@interexcompanies.com?subject=Booking%20Inquiry&body=Hi%2C%20I%27m%20interested%20in%20booking%20an%20small%20business%20consultation.
             icon: arrowRight
             iconPosition: right
             style: secondary
