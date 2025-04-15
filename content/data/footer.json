@@ -32,7 +32,7 @@
             },
             {
                 "type": "Link",
-                "label": "Send email",
+                "label": "Support",
                 "altText": "Play",
                 "url": "mailto:help@interexcompanies.com?subject=Support%20Request&body=Hello%2C%20I%27m%20in%20need%20of%20an%20assistance%20with",
                 "showIcon": true,
