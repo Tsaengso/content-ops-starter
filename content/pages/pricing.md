@@ -34,7 +34,7 @@ sections:
             iconPosition: right
             style: secondary
             type: Button
-            showIcon: true
+            showIcon: false
         colors: bg-neutral-fg-dark
         styles:
           self:
