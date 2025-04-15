@@ -20,7 +20,7 @@ sections:
       not just building efficient systems; we're building a culture of
       curiosity, integrity, and forward-thinking problem solving
     actions:
-      - label: See open positions
+      - label: No current open positions
         url: ''
         icon: arrowRight
         iconPosition: right
