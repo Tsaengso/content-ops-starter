@@ -58,7 +58,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Logistics
-        subtitle: Numbers Done
+        subtitle: 'Flow, optimized'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
