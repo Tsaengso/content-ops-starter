@@ -20,7 +20,7 @@ sections:
           For local shops, solo entrepreneurs, or teams under 10 looking to get
           organized.
         features:
-          - Feature one
+          - Comprehensive 1-2 hour consultation
           - Feature two
           - Feature three
         image:
