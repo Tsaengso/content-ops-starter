@@ -11,11 +11,14 @@ sections:
       type: TitleBlock
     subtitle: Does that sound like a fit for you?
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      At Interex Companies, we believe that meaningful impact starts with
+      empowered people. Whether you're an experienced professional or just
+      starting your career journey, we offer opportunities to contribute to
+      high-impact projects that help businesses operate smarter and grow
+      stronger. Join our team where your insight matters, your ideas are heard,
+      and your work drives real results across a variety of industries. We're
+      not just building efficient systems; we're building a culture of
+      curiosity, integrity, and forward-thinking problem solving
     actions:
       - label: See open positions
         url: /
