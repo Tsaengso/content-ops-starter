@@ -52,7 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Interex can prov
     items:
       - type: FeaturedItem
         title: 500k
