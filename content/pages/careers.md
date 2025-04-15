@@ -57,7 +57,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Below are our career areas, if we aren't hiring currently, feel free to
+      send us your resume and mention one of these career areas. We are happy to
+      keep your resume on file for future opportunities!
     items:
       - title: Account Executive
         subtitle: Sales
