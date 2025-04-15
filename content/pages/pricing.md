@@ -87,7 +87,7 @@ sections:
           - Everything included in Industry Leader tier
           - Cross departmental audits for up to 2 areas
           - Executive level info deck to present to leadership
-          - 90 day concierge access via teams
+          - 90 day concierge access via Teams
           - Feature five
         image:
           url: /images/abstract-feature3.svg
