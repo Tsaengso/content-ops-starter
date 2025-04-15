@@ -62,7 +62,7 @@ sections:
       send us your resume and mention one of these career areas. We are happy to
       keep your resume on file for future opportunities!
     items:
-      - title: Consultant
+      - title: Consultants
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
