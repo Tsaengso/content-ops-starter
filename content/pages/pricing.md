@@ -28,7 +28,7 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Book Now
             url: /
             icon: arrowRight
             iconPosition: right
