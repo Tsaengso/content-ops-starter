@@ -142,7 +142,7 @@ sections:
         type: FeaturedItem
         tagline: ''
       - title: Marketing Interns
-        subtitle: Marketing
+        subtitle: Open your own doors
         text: >+
           Looking to break into the world of marketing with real projects and
           real impact? As a Marketing Intern with Interex Companies, you won’t
