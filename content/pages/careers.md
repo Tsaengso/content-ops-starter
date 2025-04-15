@@ -141,7 +141,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
         tagline: ''
-      - title: Open Source Engineer
+      - title: Marketing Interns
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
