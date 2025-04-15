@@ -52,7 +52,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Our team provides services across a broad range of business systems
+    subtitle: >-
+      Our dedicated team provides individualized consultation services across a
+      broad range of business systems
     items:
       - type: FeaturedItem
         title: 500k
