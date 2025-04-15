@@ -21,7 +21,7 @@ sections:
       curiosity, integrity, and forward-thinking problem solving
     actions:
       - label: See open positions
-        url: /
+        url: ''
         icon: arrowRight
         iconPosition: right
         style: primary
