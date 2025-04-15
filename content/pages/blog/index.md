@@ -48,10 +48,33 @@ topSections:
       - type: FeaturedItem
         title: How Long Will it Take?
         subtitle: 1 to 2 hours.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          From start to finish, our method of consulting will take about 1-2
+          hours of your time.
+
+
+          We will work quickly to establish an overview of your processes,
+          interview key personnel, and let you know the timeframe we will need
+          to complete our handoff packet.
+
+
+          24-48 hours after our meeting, you will receive a packet of
+          information outlining our findings, suggestions, and all SOP write ups
+          for implementation.
+
+
+          If you require less time than 1 hour, we are happy to accommodate your
+          needs and only request that you gather your personnel in preparation
+          to expedite the consult.
+
+
+          If you require more time than 2 hours, we are happy to accommodate
+          your request. However, after 2 hours, we do charge an hourly rate of
+          $85. 
+
+
+          We are more than happy to negotiate consultations in excess of 1 full
+          day, but ask you send us an email in advance. 
         actions: []
         colors: bg-neutral-fg-dark
         styles:
