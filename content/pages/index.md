@@ -207,14 +207,15 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: 'Yes, really.'
-    text: >
-      High-growth firms don't leave strategy to chance — they invest in expert
-      insight. A recent Rattleback study of over 250 firms identified "fast
-      growers" reporting revenue increases of over 20% in just six months.
-      Strategic guidance was a common factor. By identifying inefficiencies,
-      streamlining systems, and aligning business goals, our consultations are
-      designed to deliver the same kind of measurable impact — starting from day
-      one.
+    text: >+
+      <div style="text-align: center">High-growth firms don't leave strategy to
+      chance — they invest in expert insight. A recent Rattleback study of over
+      250 firms identified "fast growers" reporting revenue increases of over
+      20% in just six months. Strategic guidance was a common factor. By
+      identifying inefficiencies, streamlining systems, and aligning business
+      goals, our consultations are designed to deliver the same kind of
+      measurable impact — starting from day one.</div>
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
