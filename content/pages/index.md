@@ -454,7 +454,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Not sure where to start?
+      text: Not sure where to start? That's ok!
       color: text-dark
       type: TitleBlock
     subtitle: Send us a message and we can help you decide what's right for you.
