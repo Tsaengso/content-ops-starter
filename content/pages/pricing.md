@@ -22,7 +22,7 @@ sections:
         features:
           - Comprehensive 1-2 hour consultation
           - Phased action plan for seamless roll out
-          - Feature three
+          - Complimentary check in at 3/6/12 months
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
