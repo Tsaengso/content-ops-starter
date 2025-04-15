@@ -63,7 +63,7 @@ sections:
       keep your resume on file for future opportunities!
     items:
       - title: Account Consultants
-        subtitle: ''
+        subtitle: Be the face of Interex
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
