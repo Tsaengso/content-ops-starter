@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Q
     items:
       - type: FeaturedItem
         title: Account Executive
