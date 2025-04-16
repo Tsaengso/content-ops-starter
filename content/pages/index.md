@@ -118,7 +118,7 @@ sections:
           attention in the right markets.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/icon3.svg
           altText: Placeholder text
           elementId: ''
           styles:
