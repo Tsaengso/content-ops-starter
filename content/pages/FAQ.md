@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Find answers to commonly asked questions about our services
+    subtitle: Find answers to commonly asked questions about our services.
     items:
       - type: FeaturedItem
         title: Account Executive
