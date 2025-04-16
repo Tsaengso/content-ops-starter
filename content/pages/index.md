@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Schedule a Consultation
         altText: ''
-        url: 'http://interex-companies.square.site/'
+        url: 'https://interex-companies.square.site/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
