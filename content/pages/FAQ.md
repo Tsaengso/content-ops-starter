@@ -52,10 +52,30 @@ sections:
       - type: FeaturedItem
         title: How Long Will it Take?
         subtitle: 1-2 Hours.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          A typical consultation session will only take about 1-2 hours, though
+          it depends on the scope of your consult needs.
+
+
+          By default, we allocated the full 2 hours to your consultations and we
+          do not double book. That allows us to fully dedicate our services to
+          your business without the pressure of overrunning the clock.
+
+
+          There are instances when you may require more or less time, and we are
+          happy to accommodate these requests through the following policies:
+
+
+          *   If you require more than 2 hours, we charge an hourly rate of $85.
+          For consults requiring more than 6 hours, or multiple days, we ask to
+          please email us your request ahead of your booking.
+
+
+
+          *   If you require less than 1 hour, please understand that we cannot
+          adjust our flat booking rate but are happy to offer one of our
+          optional services free of charge. 
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
