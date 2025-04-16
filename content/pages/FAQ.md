@@ -156,11 +156,10 @@ sections:
       text: Didn't find your question?
       color: text-dark
     subtitle: That's OK!
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Please send us an email with your inquiries, we are happy to provide
+      information to help you understand your options to make an informed
+      decision.
     actions: []
     media:
       type: FormBlock
