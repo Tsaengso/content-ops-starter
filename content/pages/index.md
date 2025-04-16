@@ -24,6 +24,8 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+        newWindow: true
+
     media:
       url: /images/charles-forerunner-3fPXt37X6UQ-unsplash.jpg
       altText: Unblock your team boost your time to production preview
