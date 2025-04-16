@@ -13,7 +13,7 @@ sections:
     subtitle: Find answers to commonly asked questions about our services.
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: What Should I Expect?
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
