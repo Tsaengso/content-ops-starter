@@ -29,7 +29,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Book Now
-            url: 'http://interex-companies.square.site/'
+            url: 'https://interex-companies.square.site/'
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -63,7 +63,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Book Now
-            url: 'http://interex-companies.square.site/'
+            url: 'https://interex-companies.square.site/'
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -96,7 +96,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Book Now
-            url: 'http://interex-companies.square.site/'
+            url: 'https://interex-companies.square.site/'
             icon: arrowRight
             iconPosition: right
             style: secondary
