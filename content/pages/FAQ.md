@@ -15,10 +15,27 @@ sections:
       - type: FeaturedItem
         title: What Should I Expect?
         subtitle: Honesty above all.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Your consultation is a fairly straightforward process.
+
+
+          First, we will coordinate a time for us to meet you on site or via
+          zoom and begin a 1-2 hour investigation that consists of an overview
+          of how your current workflow is, interviews with key members of your
+          staff, and finally a start to finish lifecycle of your product or
+          service. Throughout this, we will take detailed notes which we will
+          disclose at the end of our session.
+
+
+          From there, we will take 24-48 hours to analyze opportunities for
+          improvement and create a gameplan for your needs which we will present
+          back to you for implementation.
+
+
+
+
+          Our goal is to provide you with sustainable practices that you will be
+          able to implement immediately for long term success!
         actions: []
         colors: bg-neutral-fg-dark
         styles:
