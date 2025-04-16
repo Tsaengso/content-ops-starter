@@ -58,7 +58,7 @@ sections:
           - Detailed SOP documentation for all teams
           - Executive summary briefing for leadership
         image:
-          url: /images/shridhar-gupta-dZxQn4VEv2M-unsplash.jpg
+          url: /images/arno-senoner-bCgsKqFzUcg-unsplash.jpg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
