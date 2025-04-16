@@ -91,7 +91,7 @@ sections:
           - 90 day concierge access via Teams
           - One-year revisional follow up analysis
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/mathias-reding-4YuB7e7zrwk-unsplash.jpg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
