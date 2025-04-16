@@ -92,10 +92,40 @@ sections:
       - type: FeaturedItem
         title: Do You Offer Custom Consultations?
         subtitle: Of course!
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          We understand the need for services outside of our standard offerings
+          and are more than able to accommodate any requests you may have.
+
+
+          No two consultations are alike as every business has unique challenges
+          to overcome. However, for those that may need additional services,
+          please let us know what services you would like for us to conduct.
+
+
+          To better serve you on these types of requests, please contact us via
+          email prior to booking.
+
+
+
+
+          Some commonly requested additions are, but aren't limited to, the
+          following:
+
+
+          *   Executive deck creation
+
+
+          *   Oration of findings/suggestions
+
+
+          *   90 day concierge
+
+
+          *   Additional consultation time
+
+
+          *   Additional consultation areas
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
