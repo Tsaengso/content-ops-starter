@@ -15,7 +15,7 @@ sections:
       impact. We provide comprehensive consultation to businesses of any size,
       and in any industry.
     actions:
-- label: Schedule a Consultation
+  - label: Schedule a Consultation
   altText: ''
   url: 'https://interex-companies.square.site/'
   showIcon: false
