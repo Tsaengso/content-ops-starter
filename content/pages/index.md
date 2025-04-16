@@ -15,16 +15,17 @@ sections:
       impact. We provide comprehensive consultation to businesses of any size,
       and in any industry.
     actions:
-  - label: Schedule a Consultation
-  altText: ''
-  url: 'https://interex-companies.square.site/'
-  showIcon: false
-  icon: arrowRight
-  iconPosition: right
-  style: secondary
-  elementId: ''
-  type: Button
-  newWindow: true
+      - label: Schedule a Consultation
+        altText: ''
+        url: 'https://interex-companies.square.site/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+        newWindow: true
+
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
