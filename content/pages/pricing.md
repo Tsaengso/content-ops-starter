@@ -24,7 +24,7 @@ sections:
           - Phased action plan for seamless roll out
           - Complimentary check in at 3/6/12 months
         image:
-          url: /images/shridhar-gupta-dZxQn4VEv2M-unsplash.jpg
+          url: /images/kyle-ryan-6g1kqseqsEk-unsplash.jpg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
